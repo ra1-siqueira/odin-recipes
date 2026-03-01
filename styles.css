@@ -1,3 +1,10 @@
 body {
-  font-family: Inter, sans-serif;
+  font-family: cursive;
+  background-color: antiquewhite;
+  color: darkslategray;
+}
+
+h2 {
+  background-color: yellow;
+  text-align: center;
 }

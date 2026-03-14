@@ -1,10 +1,17 @@
 body {
   font-family: cursive;
   background-color: antiquewhite;
-  color: darkslategray;
+  color: rgb(66, 47, 79);
 }
 
 h2 {
   background-color: yellow;
   text-align: center;
+  font-family: Agbalumo;
+}
+
+h1 {
+  color: rgb(66, 47, 79);
+  font-family: Agbalumo;
+
 }
